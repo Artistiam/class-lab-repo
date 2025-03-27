@@ -1,0 +1,20 @@
+diff --git a/example.txt b/example.txt
+index b211495..977d50d 100644
+--- a/example.txt
++++ b/example.txt
+@@ -1,2 +1,13 @@
+-This is a sample text file for practicing Git commands.
+-Learners can experiment with adding, modifying, or deleting this file as needed.
++Crimson
++Orange
++Blue
++Cyan
++Yellow
++Charcoal
++Khaki
++Coral
++Silver
++Fuchsia
++Purple
++Brown
++Red
